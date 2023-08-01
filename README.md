@@ -16,7 +16,7 @@
     This app use express and mongoose. You can run this app on your local host with node index.js
 
 ## Usage
-- [Video-Guide]()
+- [Video-Guide](https://drive.google.com/file/d/17-qMPGjhXEiHvD7ZFIZZOducLZWXJvWi/view?usp=sharing)
 
 ### Image sample
 
