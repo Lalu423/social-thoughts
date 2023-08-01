@@ -20,7 +20,7 @@
 
 ### Image sample
 
-<img src="" height="400" width="500"/>
+<img src="https://github.com/Lalu423/social-thoughts/blob/main/assets/sample.jpg" height="386" width="770"/>
 
 ## Contribution
     Activity 28 mini project is an amazing resource for this app and most of the code was set up from this project. 
